@@ -47,7 +47,7 @@
 
 
 <p align="center">
-<a href="https://www.dev.to/ishankadsenevirathne/"><img alt="Dev" src="https://img.shields.io/badge/Dev.to-ishankadsenevirathne-blue?style=flat-square&logo=Dev.to></a>  
+<a href="https://www.dev.to/ishankadsenevirathne/"><img alt="Dev" src="https://img.shields.io/badge/dev.to-ishankadsenevirathne-blue?style=flat-square&logo=dev.to></a>  
 <a href="https://www.twitter.com/EshankaDileep/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-EshankaDileep-blue?style=flat-square&logo=twitter></a>
 <a href="https://www.instagram.com/ishankads/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ishankads-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ishankadsenevirathne@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ishankadsenevirathne@gmail.com-blue?style=flat-square&logo=gmail"></a>
