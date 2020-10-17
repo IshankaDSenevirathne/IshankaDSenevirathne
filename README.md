@@ -3,11 +3,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing platforms to brimg my ideas to life.
+- 🤔 &nbsp; Exploring new technologies and developing platforms to bring my ideas to life.
 - 🎓 &nbsp; Studying Computer Science in University of Colombo Sri Lanka.
 - 💼 &nbsp; I’m currently working on Full Stack Development projects.
 - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-- ✍️ &nbsp; Pursuing Competitive Programming and Gaming and listening to Music as hobbies.  
+- :pizza: &nbsp; I like to play Vedio Games and listen to :notes: Music as hobbies.  
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
