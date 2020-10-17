@@ -3,8 +3,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing platforms to brimg my ideas to life.
 - 🎓 &nbsp; Studying Computer Science in University of Colombo Sri Lanka.
+- 💼 &nbsp; I’m currently working on Full Stack Development projects.
+- 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+- ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies.  
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -14,9 +17,11 @@
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
   ![Material-UI](https://img.shields.io/badge/-Material--UI-333333?style=flat&logo=Material-UI&logoColor=0081CB)
   
 - 🛢 &nbsp;
@@ -27,7 +32,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-333333?style=flat&logo=adobe-xd)
@@ -35,11 +39,19 @@
 <br/>
 
 <a href="https://github.com/IshankaDSenevirathne">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IshankaDSenevirathne&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshankaDSenevirathne&theme=tokyonight&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IshankaDSenevirathne&theme=react&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshankaDSenevirathne&theme=react&layout=compact" />
 </a>
 
+<h3> :envelope: &nbsp;About Me </h3>
 
 
+<p align="center">
+<a href="https://www.instagram.com/ishankads/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ishankads-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:ishankadsenevirathne@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ishankadsenevirathne@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+
+:boy: From [Ishanka D Senevirathne](https://github.com/IshankaDSenevirathne)
 
 
