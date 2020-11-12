@@ -25,6 +25,7 @@
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
   ![Tailwind-CSS](https://img.shields.io/badge/-Tailwind--CSS-333333?style=flat&logo=Tailwind-CSS&logoColor=38B2AC)
   ![Material-UI](https://img.shields.io/badge/-Material--UI-333333?style=flat&logo=Material-UI&logoColor=0081CB)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Tailwind-CSS&logoColor=563D7C)
   
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
