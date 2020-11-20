@@ -36,6 +36,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=Android-Studio&logoColor=3DDC84)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-333333?style=flat&logo=adobe-xd)
