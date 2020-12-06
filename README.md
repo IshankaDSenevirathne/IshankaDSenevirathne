@@ -5,9 +5,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing platforms to bring my ideas to life.
 - 🎓 &nbsp; Studying Computer Science in University of Colombo Sri Lanka.
-- 💼 &nbsp; I’m currently working on Full Stack Development projects.
+- 💼 &nbsp; I’m currently working on Full Stack Web Development projects.
 - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-- :pizza: &nbsp; I like to play vedio games and listen to :notes: music as hobbies.  
+- :pizza: &nbsp; I like to play video games and listen to :notes: music as hobbies.  
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
