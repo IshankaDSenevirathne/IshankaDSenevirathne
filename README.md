@@ -1,5 +1,3 @@
-<h2>My thirst for knowledge cannot be quenched.</h2>
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
