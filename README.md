@@ -1,7 +1,4 @@
-
-<h2> Hey there! I'm Ishanka.</h2>
-
-<h3>My thirst for knowledge cannot be quenched.</h3>
+<h2>My thirst for knowledge cannot be quenched.</h2>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
