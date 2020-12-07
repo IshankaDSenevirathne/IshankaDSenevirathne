@@ -1,13 +1,7 @@
 
 <h2> Hey there! I'm Ishanka.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing platforms to bring my ideas to life.
-- 🎓 &nbsp; Studying Computer Science in University of Colombo Sri Lanka.
-- 💼 &nbsp; I’m currently working on Full Stack Web Development projects.
-- 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-- :pizza: &nbsp; I like to play video games and listen to :notes: music as hobbies.  
+<h3>My thirst for knowledge cannot be quenched.</h3>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
