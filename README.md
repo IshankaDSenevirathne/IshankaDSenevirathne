@@ -49,6 +49,6 @@
 </p>
 
 
-:boy: From [Ishanka D Senevirathne](https://github.com/IshankaDSenevirathne)
+:boy: From [Ishanka D Senevirathne](https://ishankadsenevirathne.vercel.app/)
 
 
