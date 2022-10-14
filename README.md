@@ -10,10 +10,10 @@
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=for-the-badge&logo=Next.js)
   ![Tailwind-CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Material-UI](https://img.shields.io/badge/-Material--UI-333333?style=flat&logo=Material-UI&logoColor=0081CB)
-  ![GreenSock](https://img.shields.io/badge/-GreenSock-333333?style=flat&logo=GreenSock&logoColor=88CE02)
+  ![Material-UI](https://img.shields.io/badge/-Material--UI-333333?style=for-the-badge&logo=Material-UI&logoColor=0081CB)
+  ![GreenSock](https://img.shields.io/badge/-GreenSock-333333?style=for-the-badge&logo=GreenSock&logoColor=88CE02)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
   ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
@@ -42,8 +42,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IshankaDSenevirathne&theme=react&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshankaDSenevirathne&theme=react&layout=compact" />
 </a>
-
-<a href="https://ishankadsenevirathne.vercel.app/"><h3>![Portfolio](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white) </h3></a>
 
 <h3> :envelope: &nbsp;Find Me On </h3>
 
