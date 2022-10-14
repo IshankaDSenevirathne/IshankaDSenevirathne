@@ -30,7 +30,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshankaDSenevirathne&theme=react&layout=compact" />
 </a>
 
-<a href="https://ishankadsenevirathne.vercel.app/"><h3>![Portfolio](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white) &nbsp;Portfolio </h3></a>
+<a href="https://ishankadsenevirathne.vercel.app/"><h3>![Portfolio](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white) </h3></a>
 
 <h3> :envelope: &nbsp;Contact Me </h3>
 
@@ -38,6 +38,7 @@
 <a href="https://www.dev.to/ishankadsenevirathne/"><img alt="Dev" src="https://img.shields.io/badge/dev.to-ishankadsenevirathne-blue?style=flat-square&logo=dev.to"></a>  
 <a href="https://www.twitter.com/EshankaDileep/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-EshankaDileep-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:ishankadsenevirathne@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ishankadsenevirathne@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:ishankadsenevirathne@gmail.com"><img alt="Email" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 
