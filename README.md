@@ -13,7 +13,7 @@
   ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=for-the-badge&logo=Next.js)
   ![Tailwind-CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Material-UI](https://img.shields.io/badge/-Material--UI-333333?style=for-the-badge&logo=Material-UI&logoColor=0081CB)
+  ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
   ![GreenSock](https://img.shields.io/badge/-GreenSock-333333?style=for-the-badge&logo=GreenSock&logoColor=88CE02)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
