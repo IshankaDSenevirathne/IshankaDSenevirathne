@@ -30,7 +30,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshankaDSenevirathne&theme=react&layout=compact" />
 </a>
 
-<a href="https://ishankadsenevirathne.vercel.app/"><h3> (https://img.shields.io/badge/-Git-333333?style=flat&logo=git) &nbsp;Portfolio </h3></a>
+ (https://img.shields.io/badge/-Git-333333?style=flat&logo=git) <a href="https://ishankadsenevirathne.vercel.app/"><h3>&nbsp;Portfolio </h3></a>
 
 <h3> :envelope: &nbsp;Contact Me </h3>
 
