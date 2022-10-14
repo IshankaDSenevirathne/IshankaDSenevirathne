@@ -1,6 +1,6 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 
+- 🚀 Frameworks/Languages/Libraries
   ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,7 +19,8 @@
   ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
   ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
   
-- 
+- ⚡Database
+<br/>
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -30,10 +31,12 @@
   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
   
   
-- 
+- 👩‍💻 IDE
+<br/>
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   
-- 
+- 🖍 Design
+<br/>
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=for-the-badge&logo=adobe-illustrator)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma)
 
@@ -44,7 +47,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshankaDSenevirathne&theme=react&layout=compact" />
 </a>
 
-<h3> :envelope: &nbsp;Find Me On </h3>
+<h3> 📱 &nbsp;Find Me On </h3>
 
 <p align="center">
 <a href="https://www.dev.to/ishankadsenevirathne/"><img alt="Dev" src="https://img.shields.io/badge/dev.to-FC51B6?style=for-the-badge&logo=devdotto&logoColor=white"></a>
