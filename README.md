@@ -35,10 +35,10 @@
 <h3> :envelope: &nbsp;Contact Me </h3>
 
 <p align="center">
-<a href="https://www.dev.to/ishankadsenevirathne/"><img alt="Dev" src="https://img.shields.io/badge/dev.to-ishankadsenevirathne-blue?style=flat-square&logo=dev.to"></a>  
-<a href="https://www.twitter.com/EshankaDileep/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-EshankaDileep-blue?style=flat-square&logo=twitter"></a>
-<a href="mailto:ishankadsenevirathne@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ishankadsenevirathne@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="mailto:ishankadsenevirathne@gmail.com"><img alt="Email" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.dev.to/ishankadsenevirathne/"><img alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>  
+<a href="https://www.twitter.com/EshankaDileep/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="mailto:ishankadsenevirathne@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ishanka-senevirathne-150700171/"><img alt="Email" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 
