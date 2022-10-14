@@ -1,7 +1,6 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🚀 Frameworks/Languages/Libraries
-<br/>
 
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -22,14 +21,12 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
   
 - ⚡Database
-<br/>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   
 - ⚙️ Other Tools
-<br/>
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
@@ -37,12 +34,10 @@
   
   
 - 👩‍💻 IDE
-<br/>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   
 - 🖍 Design
-<br/>
 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=for-the-badge&logo=adobe-illustrator)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma)
