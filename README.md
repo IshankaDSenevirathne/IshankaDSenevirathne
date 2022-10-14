@@ -5,6 +5,7 @@
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -46,13 +47,13 @@
 <h3> :envelope: &nbsp;Find Me On </h3>
 
 <p align="center">
-<a href="https://www.dev.to/ishankadsenevirathne/"><img alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
-<a href="https://open.spotify.com/user/iz06xk6zyrvcrw6ty57awi6ml?si=59d0319de70d46d4"><img alt="Dev" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://www.dev.to/ishankadsenevirathne/"><img alt="Dev" src="https://img.shields.io/badge/dev.to-FC51B6?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+<a href="https://open.spotify.com/user/iz06xk6zyrvcrw6ty57awi6ml?si=59d0319de70d46d4"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.twitter.com/EshankaDileep/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.fiverr.com/users/ishankads"><img alt="Twitter" src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a>
-<a href="https://www.upwork.com/freelancers/~011c8fc433d2866a35"><img alt="Twitter" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"></a>
+<a href="https://www.fiverr.com/users/ishankads"><img alt="Fiverr" src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a>
+<a href="https://www.upwork.com/freelancers/~011c8fc433d2866a35"><img alt="UpWork" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"></a>
 <a href="mailto:ishankadsenevirathne@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/ishanka-senevirathne-150700171/"><img alt="Email" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ishanka-senevirathne-150700171/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 
